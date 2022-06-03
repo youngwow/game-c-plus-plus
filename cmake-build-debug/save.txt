@@ -1,0 +1,338 @@
+height 10
+width 10
+CountEnemy 6
+
+TypeObj 0
+TypeCage 2
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+Monster
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 2
+Health
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 2
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+Monster
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 2
+Weapon
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+Zombie
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 2
+Health
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 2
+Armor
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 2
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+Ghost
+TypeObj 0
+TypeCage 2
+nothing
+TypeObj 0
+TypeCage 2
+Weapon
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+Ghost
+TypeObj 0
+TypeCage 2
+nothing
+TypeObj 0
+TypeCage 2
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 1
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+Zombie
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 2
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 0
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 1
+TypeCage 4
+MainHero
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 2
+Armor
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+TypeObj 0
+TypeCage 4
+nothing
+MainHeroStats
+100
+10
+0
+Enemy
+X 2
+Y 1
+EnemyHealth 15
+EnemyPower 5
+Enemy
+X 5
+Y 4
+EnemyHealth 25
+EnemyPower 10
+Enemy
+X 0
+Y 2
+EnemyHealth 35
+EnemyPower 50
+Enemy
+X 7
+Y 5
+EnemyHealth 15
+EnemyPower 5
+Enemy
+X 4
+Y 0
+EnemyHealth 25
+EnemyPower 10
+Enemy
+X 1
+Y 5
+EnemyHealth 35
+EnemyPower 50

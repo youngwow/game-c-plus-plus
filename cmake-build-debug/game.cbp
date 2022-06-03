@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="game"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/CLion/CLionProjects/game/game/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\CLion\CLionProjects\game\game\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f D:\CLion\CLionProjects\game\game\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\CLion\CLionProjects\game\game\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\CLion\CLionProjects\game\game\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="game">
+				<Option output="D:/CLion/CLionProjects/game/game/cmake-build-debug/game.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLion/CLionProjects/game/game/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\CLion\CLionProjects\game\game\cmake-build-debug\Makefile VERBOSE=1 game"/>
+					<CompileFile command="nmake /NOLOGO /f D:\CLion\CLionProjects\game\game\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\CLion\CLionProjects\game\game\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\CLion\CLionProjects\game\game\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="game/fast">
+				<Option output="D:/CLion/CLionProjects/game/game/cmake-build-debug/game.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLion/CLionProjects/game/game/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\CLion\CLionProjects\game\game\cmake-build-debug\Makefile VERBOSE=1 game/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\CLion\CLionProjects\game\game\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\CLion\CLionProjects\game\game\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\CLion\CLionProjects\game\game\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/CLion/CLionProjects/game/game/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\CLion\CLionProjects\game\game\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f D:\CLion\CLionProjects\game\game\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\CLion\CLionProjects\game\game\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\CLion\CLionProjects\game\game\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/CLion/CLionProjects/game/game/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\CLion\CLionProjects\game\game\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f D:\CLion\CLionProjects\game\game\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\CLion\CLionProjects\game\game\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\CLion\CLionProjects\game\game\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Control/Commands/Command.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Control/Commands/CommandDown.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Control/Commands/CommandDown.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Control/Commands/CommandLeft.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Control/Commands/CommandLeft.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Control/Commands/CommandRight.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Control/Commands/CommandRight.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Control/Commands/CommandUp.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Control/Commands/CommandUp.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Control/Console.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Control/Console.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Control/Devices.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Control/Invoker.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Control/Invoker.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Entity/CageEntity.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Entity/Items/Armor.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Entity/Items/Armor.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Entity/Items/Health.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Entity/Items/Health.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Entity/Items/Interaction_elements.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Entity/Items/Weapon.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Entity/Items/Weapon.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Entity/MovableCharacters/Enemies/Enemies.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Entity/MovableCharacters/Enemies/Enemies.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Entity/MovableCharacters/Enemies/Ghost.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Entity/MovableCharacters/Enemies/Ghost.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Entity/MovableCharacters/Enemies/Monster.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Entity/MovableCharacters/Enemies/Monster.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Entity/MovableCharacters/Enemies/Zombie.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Entity/MovableCharacters/Enemies/Zombie.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Entity/MovableCharacters/MainCharacter.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Entity/MovableCharacters/MainCharacter.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Entity/MovableCharacters/MovableEntity.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Logger/ConsoleLogger.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Logger/ConsoleLogger.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Logger/FileLogger.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Logger/FileLogger.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Logger/Logger.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Logger/Logger.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Logger/LoggerPull.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Logger/LoggerPull.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Rules/Rules.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Rules/Rules_second.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Tools/Cage.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Tools/Cage.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Tools/Field.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Tools/Field.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Tools/Game.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Tools/GameStats.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Tools/GameStats.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Tools/Saver/Caretaker.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Tools/Saver/Caretaker.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Tools/Saver/Memento.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Tools/Saver/Memento.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Tools/Saver/Originator.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Tools/Saver/Originator.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Tools/View/CageView.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Tools/View/CageView.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Tools/View/FieldView.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/Tools/View/FieldView.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/main.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="D:/CLion/CLionProjects/game/game/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
